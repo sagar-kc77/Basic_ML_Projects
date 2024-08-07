@@ -1,0 +1,1 @@
+Hi, this is the Titanic disaster machine learning project. I used RandomForestClassifier for this project. I also uploaded several prediction files here, and the predictions_final file was the best among all. My Kaggle score for this project is 0.78947.
