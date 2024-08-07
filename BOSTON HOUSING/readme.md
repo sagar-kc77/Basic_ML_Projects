@@ -1,0 +1,1 @@
+Hi, this is the Boston housing machine learning project. I used RandomForestRegressor for this project. I also uploaded the Jupyter notebook and dataset files here. My Kaggle score for this project is 3.53554.
